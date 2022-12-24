@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azeez_kadiri
+- 👋 Hi, I’m @Azeezkadiri
 - 👀 I’m passionate  about  building beautiful and functional web applications.
 - 🌱 I’m currently learning data structures and algorithms 
 - 💞️ I’m looking to collaborate on projects with other developers and designers to create modern and innovative web and mobile applications. I have experience in HTML, CSS, and JavaScript, as well as frameworks such as React, and React native. I am constantly learning and seeking to improve my skills, and I am passionate about staying up to date with the latest technologies and best practices in the industry. I enjoy solving complex problems and working with a team to bring ideas to life.
